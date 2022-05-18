@@ -93,9 +93,9 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Lucas Batt"
-  avatar           : "lb_profile.jpg"
-  bio              : "Data Journalist"
-  location         : "Bristol"
+  avatar           : 
+  bio              : 
+  location         :
   email            : 
   uri              :
   bitbucket        :
@@ -115,12 +115,12 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : l_ucasbatt
+  twitter          : l_ucsasbatt
   vine             :
   weibo            :
   xing             :
   youtube          :
-  tableau          : lucas.batt
+  tableau          :
 
 
 
