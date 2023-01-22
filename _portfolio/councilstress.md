@@ -4,10 +4,10 @@ permalink: /portfolio/councilstress/
 excerpt: "Investigation into absences in Bristol City Council"
 header:
   image:
-  teaser: council-stress-th.png
+  teaser: assets/images/council-stress-th.png
 gallery:
-  - url: councilstress-page.png
-    image_path: councilstress-page.png
+  - url: assets/images/councilstress-page.png
+    image_path: assets/images/councilstress-page.png
     alt: "Article in the Bristol Cable"
 date: 2016-01-15 12:00:00
 sidebar:

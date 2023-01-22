@@ -4,7 +4,7 @@ permalink: /portfolio/councilauctions/
 excerpt: "Mapping the sale of council houses"
 header:
   image:
-  teaser: councilauctions-th.gif
+  teaser: assets/images/councilauctions-th.gif
 date: 2016-04-08 12:00:00
 sidebar:
   - title: "Main Tools"

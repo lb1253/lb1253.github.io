@@ -4,7 +4,7 @@ permalink: /portfolio/expenses/
 excerpt: "An attempt to make election expenses data and investigation more organised and accessible"
 header: 
   image: 
-  teaser: expenses_teaser.png
+  teaser: assets/images/expenses_teaser.png
   layout: portfolio-single
 date: 2016-05-31 00:40:45
 sidebar:
@@ -22,7 +22,7 @@ An influential Tweeter on this was <a href="https://twitter.com/LabourEoin/statu
 I decided to build a tool in Tableau using the EC data which would help people search through it and identify interesting data more quickly.
 
 
-![Twitter]({{ site.url }}/images/ss_twitter_expenses.png)
+![Twitter]({{ site.url }}/assets/images/ss_twitter_expenses.png)
 
 I set up a subreddit and linked to it on the sheet, so that people could collect their findings and discuss them together. This aspect was ultimately unsuccessful, but it was an interesting experiment in crowdsourcing journalistic research, and can likely be replicated in the future. Using a database such as via mySQL in the future would likely speed up the processing power of the tool, however Tableau made creating the whole tool - including interactive graphs - a job that took only a few hours, and could therefore quickly respond to the public interest.
 

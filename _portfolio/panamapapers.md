@@ -3,8 +3,8 @@ title: "Investigation: Bristol in the Panama Papers"
 permalink: /portfolio/panamapapers/
 excerpt: "Bristol addresses appeared in the Panama Papers. We took a closer look."
 header: 
-  image: bristol-panama.jpg
-  teaser: panamapapers-gephi_teaser.png
+  image: assets/images/bristol-panama.jpg
+  teaser: assets/images/panamapapers-gephi_teaser.png
   layout: portfolio-single
 date: 2016-07-15 00:40:45
 sidebar:
@@ -26,19 +26,19 @@ In order to track the connection between Le Marec and Ordered Management, we scr
 
 We pulled that data into Tableau to identify which companies were associated, and built a small tool in Tableau to view company officer statuses in a timeline.
 
-![Council House Resales Article]({{ site.url }}/images/pp_timeline.png)
+![Council House Resales Article]({{ site.url }}/assets/images/pp_timeline.png)
 
 A great deal of document searching was nonetheless needed, as we could not scrape company ownership data, though it was hidden in documents on Companies House. We followed papertrails and through Open Coporates and the Companies Houses of other countries.
 
 I mapped the Arden Close companies' connections in Gephi, and while it made a nice graphic showing a company incorporation structure, it wasn't especially useful.
 
-<a href="/images/panamapapers-gephi.png">![Panama Papers graph]({{ site.url }}/images/panamapapers-gephi.png)</a>
+<a href="/assets/images/panamapapers-gephi.png">![Panama Papers graph]({{ site.url }}/assets/images/panamapapers-gephi.png)</a>
 
 Through analysing the data and records we found Ordered Management, the management company at the Bristol address, not only assited in creating companies for Le Marec, but also held companies as a shareholder. We could not find evidence of this relationship happening between Ordered Management and other companies. However, frustratingly, through following the paths of shell companies and nominee directors, the trail inevitably ran into the brickwall of the Seyshell's opaque company registrar.
 
 The research ultimately elucidated how a local address can end up in something such as the Panama Papers. In this case, it was through using a company registration office as a registered address. Through looking at this case we explored how and why certain company structures exist and why certain dealings are conducted. The frustration of not quite finding all the crucial details because of these structures demonstrates why these structures are used, and why they continue to be a problem for tax authorities.
 
-<a href="/images/panama-papers-bristol.png">![Bristol Panama Papers Article]({{ site.url }}/images/panama-papers-bristol.png){:height="500px" width="460px"}</a>
+<a href="/assets/images/panama-papers-bristol.png">![Bristol Panama Papers Article]({{ site.url }}/images/panama-papers-bristol.png){:height="500px" width="460px"}</a>
 
 
 <a href="https://thebristolcable.org/2016/07/bristol-in-the-panama-papers/">Read the article online</a>.

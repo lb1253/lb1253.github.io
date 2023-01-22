@@ -4,7 +4,7 @@ permalink: /portfolio/deprivation-vs-democracy/
 excerpt: "Mapping deprivation against electoral turnout"
 header:
   image:
-  teaser: dep-vs-dem-th.png
+  teaser: assets/images/dep-vs-dem-th.png
 date: 2016-04-15 14:40:45
 ext_style: https://public.tableau.com/javascripts/api/viz_v1.js
 layout: portfolio-single
@@ -32,7 +32,7 @@ The online map has been viewed over 4,500 times.
 
 
 
- <a href="/images/vote_map_print.png">![Article]({{ site.url }}/images/vote_map_print.png)</a>
+ <a href="assets/images/vote_map_print.png">![Article]({{ site.url }}/assets/images/vote_map_print.png)</a>
 
 
 <a href="https://thebristolcable.org/2016/04/the-reason-bristolians-dont-vote/">Read the article online</a>.

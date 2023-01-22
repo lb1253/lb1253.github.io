@@ -4,7 +4,7 @@ title: "Portfolio"
 excerpt: "portfolio"
 layout: portfolio-archive
 feature_row:
-  - image_path: lbtrain.jpg
+  - image_path: assets/images/lbtrain.jpg
     alt: 
     title: 
     excerpt: 
