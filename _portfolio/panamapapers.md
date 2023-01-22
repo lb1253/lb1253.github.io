@@ -5,8 +5,8 @@ excerpt: "Bristol addresses appeared in the Panama Papers. We took a closer look
 header: 
   image: assets/images/bristol-panama.jpg
   teaser: assets/images/panamapapers-gephi_teaser.png
-  layout: portfolio-single
 date: 2016-07-15 00:40:45
+layout: portfolio-single
 sidebar:
   - title: "Main Tools"
     text: "Tableau; import.io; OpenRefine; Gephi; Carto"

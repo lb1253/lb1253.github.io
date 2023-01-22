@@ -5,8 +5,8 @@ excerpt: "An attempt to make election expenses data and investigation more organ
 header: 
   image: 
   teaser: assets/images/expenses_teaser.png
-  layout: portfolio-single
 date: 2016-05-31 00:40:45
+layout: portfolio-single
 sidebar:
   - title: "Main Tools"
     text: "Tableau"

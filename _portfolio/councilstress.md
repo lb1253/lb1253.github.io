@@ -10,6 +10,7 @@ gallery:
     image_path: assets/images/councilstress-page.png
     alt: "Article in the Bristol Cable"
 date: 2016-01-15 12:00:00
+layout: portfolio-single
 sidebar:
   - title: "Main Tools"
     text: "Tableau"

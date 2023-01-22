@@ -7,6 +7,7 @@ header:
   teaser: assets/images/EU_Ref_Data_Flag.jpg
 date: 2016-07-04 12:00:00
 ext_style: https://public.tableau.com/javascripts/api/viz_v1.js
+layout: portfolio-single
 sidebar:
   - title: "Main Tools"
     text: "Carto; Tableau"

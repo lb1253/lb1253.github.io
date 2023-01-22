@@ -6,6 +6,7 @@ header:
   image:
   teaser: assets/images/councilauctions-th.gif
 date: 2016-04-08 12:00:00
+layout: portfolio-single
 sidebar:
   - title: "Main Tools"
     text: "Carto"

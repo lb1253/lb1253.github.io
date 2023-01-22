@@ -5,8 +5,8 @@ excerpt: "We looked more closely at what happened to those auctioned houses"
 header:
   image:
   teaser: assets/images/council_house_resales.png
-  layout: portfolio-single
 date: 2016-07-18 00:40:45
+layout: portfolio-single
 sidebar:
   - title: "Main Tools"
     text: "Excel; Tableau; import.io"
