@@ -107,7 +107,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : Lucas Batt
-  avatar           :  test/assets/images/lb.jpg
+  avatar           :  /assets/images/lb.jpg
   bio              :
   location         :
   email            :
