@@ -1,8 +1,8 @@
 # main links
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "About"
-    url: /about/
+- title: Portfolio
+  url: /portfolio/
+- title: About
+  url: /about/
 
 # sidebar navigation
 #sidebar-sample:
