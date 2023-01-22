@@ -1,20 +1,6 @@
 # main links
-- title: Portfolio
-  url: /portfolio/
-- title: About
-  url: /about/
-
-# sidebar navigation
-#sidebar-sample:
-# - title: "Portfolio"
-#    children:
-#      - title: "Colourblind Map"
-#        url: /portfolio/colourblindmap/
-#      - title: "Council House Auctions"
-#        url: /portfolio/councilauctions/
-#      - title: "Council Stress"
-#        url: /portfolio/councilstress/
-#      - title: "Deprivation vs Democracy"
-#        url: /portfolio/deprivation-vs-democracy/
-#      - title: "Mapping distribution Venues"
-#        url: /portfolio/distribution/
+Main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
