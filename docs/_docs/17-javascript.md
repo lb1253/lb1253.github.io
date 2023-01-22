@@ -15,7 +15,6 @@ minimal mistakes
 |  |  |   ├── gumshoe.js                     # simple scrollspy
 |  |  |   ├── jquery.ba-throttle-debounce.js # rate-limit functions
 |  |  |   ├── jquery.fitvids.js              # fluid width video embeds
-|  |  |   ├── jquery.greedy-navigation.js    # priority plus navigation
 |  |  |   ├── jquery.magnific-popup.js       # responsive lightbox
 |  |  |   └── smooth-scroll.js               # make same-page links scroll smoothly
 |  |  ├── vendor
