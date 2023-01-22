@@ -5450,7 +5450,8 @@ section.page__content2 {
 }
 
 .sidebar.sticky h3 {
-    font-size: 0.8em;
+    font-size: 1em;
+    padding-bottom: 1em;
 }
 
 .centralise {
