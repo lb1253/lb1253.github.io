@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Portfolio"
+title                    : "Lucas Batt"
 title_separator          : "-"
 name                     : "Lucas Batt"
-description              : "Portfolio of Lucas Batt"
+description              : "Lucas Batt's website"
 url                      : "https://lbatt.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -107,7 +107,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : Lucas Batt
-  avatar           : lb.jpg
+  avatar           :  test/assets/images/lb.jpg
   bio              :
   location         :
   email            :
