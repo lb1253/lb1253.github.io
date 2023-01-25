@@ -1,6 +1,6 @@
 ---
 title: "Investigation: Council Stress"
-permalink: /portfolio/councilstress/
+permalink: /journalism/councilstress/
 excerpt: "Investigation into absences in Bristol City Council"
 header:
   image:

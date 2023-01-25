@@ -1,6 +1,6 @@
 ---
 title: "Brexit Bristol"
-permalink: /portfolio/brexitbristol/
+permalink: /journalism/brexitbristol/
 excerpt: "Mapping and charting the referendum results"
 header:
   image:

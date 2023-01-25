@@ -1,6 +1,6 @@
 ---
 title: "Bristol's Council House Auctions"
-permalink: /portfolio/councilauctions/
+permalink: /journalism/councilauctions/
 excerpt: "Mapping the sale of council houses"
 header:
   image:

@@ -1,6 +1,6 @@
 ---
 title: "Investigation: Bristol in the Panama Papers"
-permalink: /portfolio/panamapapers/
+permalink: /journalism/panamapapers/
 excerpt: "Bristol addresses appeared in the Panama Papers. We took a closer look."
 header: 
   image: assets/images/bristol-panama.jpg
@@ -38,7 +38,7 @@ Through analysing the data and records we found Ordered Management, the manageme
 
 The research ultimately elucidated how a local address can end up in something such as the Panama Papers. In this case, it was through using a company registration office as a registered address. Through looking at this case we explored how and why certain company structures exist and why certain dealings are conducted. The frustration of not quite finding all the crucial details because of these structures demonstrates why these structures are used, and why they continue to be a problem for tax authorities.
 
-<a href="/assets/images/panama-papers-bristol.png">![Bristol Panama Papers Article]({{ site.url }}/images/panama-papers-bristol.png){:height="500px" width="460px"}</a>
+<a href="/assets/images/panama-papers-bristol.png">![Bristol Panama Papers Article]({{ site.url }}/assets/images/panama-papers-bristol.png){:height="500px" width="460px"}</a>
 
 
 <a href="https://thebristolcable.org/2016/07/bristol-in-the-panama-papers/">Read the article online</a>.

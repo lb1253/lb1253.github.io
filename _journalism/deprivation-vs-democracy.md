@@ -1,6 +1,6 @@
 ---
 title: "Deprivation vs Democracy"
-permalink: /portfolio/deprivation-vs-democracy/
+permalink: /journalism/deprivation-vs-democracy/
 excerpt: "Mapping deprivation against electoral turnout"
 header:
   image:

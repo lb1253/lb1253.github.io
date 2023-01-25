@@ -1,6 +1,6 @@
 ---
 title: "Investigation: Bristol's Council House Resales"
-permalink: /portfolio/councilhouse-resales/
+permalink: /journalism/councilhouse-resales/
 excerpt: "We looked more closely at what happened to those auctioned houses"
 header:
   image:
@@ -24,7 +24,7 @@ We were aware that there were a lot of variables to control for. One way in whic
 
 
 
-<a href="/images/council_resales_spread.png">![Council House Resales Article]({{ site.url }}/images/council_resales_spread.png)</a>
+<a href="/assets/images/council_resales_spread.png">![Council House Resales Article]({{ site.url }}/images/council_resales_spread.png)</a>
 
 <a href="https://thebristolcable.org/2016/07/council-house-auctions/">Read the article online.</a>
 
