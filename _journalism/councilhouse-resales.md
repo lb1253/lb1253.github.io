@@ -16,7 +16,7 @@ sidebar:
     text: The Bristol Cable
 ---
 
-<a href="https://twitter.com/AdamC_Corn">Adam</a> and I looked again at the council auction data I had [previously mapped]({{ site.baseurl }}{% link _portfolio/councilauctions.md %}). We used <a href="http://import.io/">import.io</a> to scrape all subsequent records of sales of those properties from the <a href="http://landregistry.data.gov.uk/app/ppd">Land Registry's price paid database</a>.
+<a href="https://twitter.com/AdamC_Corn">Adam</a> and I looked again at the council auction data I had [previously mapped]({{ site.baseurl }}{% link _journalism/councilauctions.md %}). We used <a href="http://import.io/">import.io</a> to scrape all subsequent records of sales of those properties from the <a href="http://landregistry.data.gov.uk/app/ppd">Land Registry's price paid database</a>.
 
 The results were suprising, and the data was immediately compelling: most of the properties had been resold for substantially larger sums. As we were dealing with hundreds of properties over a large range, in order to account for all the variables we decided to focus on a subset: 23 properties resold within one year of their original council auction, since 2009.
 

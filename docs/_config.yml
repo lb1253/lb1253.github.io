@@ -196,7 +196,7 @@ collections:
   pets:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  journalism:
     output: true
     permalink: /:collection/:path/
 
@@ -254,7 +254,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: journalism
     values:
       layout: single
       author_profile: false
