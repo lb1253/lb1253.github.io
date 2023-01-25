@@ -18,7 +18,7 @@
   }
 }
 
-.archive__item {
+article.archive__item {
   position: relative;
     --b: .1em;
     --d: 20px;
@@ -39,7 +39,7 @@
     position: static;
   }
 }
-.archive__item:hover {
+article.archive__item:hover {
 transform: translate(0,0);
     clip-path: polygon( 0% var(--d), var(--d) 0%, 100% 0%, 100% calc(100% - var(--d)), calc(100% - var(--d)) 100%, 0% 100% );
     --c: #1095c1;
