@@ -1,6 +1,6 @@
 ---
 permalink: /journalism/
-title: "journalism"
+title: "Journalism"
 excerpt: "journalism"
 layout: portfolio-archive
 feature_row:

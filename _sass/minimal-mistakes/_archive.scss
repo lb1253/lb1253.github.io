@@ -54,7 +54,6 @@ transform: translate(0,0);
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
-    padding: 5px;
   }
 }
 
@@ -64,6 +63,12 @@ transform: translate(0,0);
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  padding: 5px;
+  text-decoration: none;
+
+  a[rel="permalink"] {
+    text-decoration: none;
+  }
 
   a[rel="permalink"]::before {
     content: '';
@@ -228,6 +233,8 @@ transform: translate(0,0);
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
+    padding-bottom: 5px;
+    text-decoration: none;
   }
 
   .archive__item-excerpt {
