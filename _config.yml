@@ -243,7 +243,7 @@ whitelist:
 
 
 collections:
-  portfolio:
+  journalism:
     output: true
     permalink: /:collection/:path/
 
@@ -298,3 +298,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+    # journalism
+  - scope:
+      path: ""
+      type: journalism
+    values:
+      layout: portfolio-archive
+      author_profile: true
+      share: false
