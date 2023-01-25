@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lucas Batt"
-permalink: /portfolio/
+permalink: /journalism/
 author_profile: true
 ---
 
@@ -10,8 +10,8 @@ author_profile: true
 
 
 <div class="grid__wrapper">
-  {% assign post = site.portfolio | sort: 'date' %}
-  {% for post in site.portfolio reversed %}
+  {% assign post = site.journalism | sort: 'date' %}
+  {% for post in site.journalism reversed %}
     {% include archive-single.html type="grid" %}
 
   {% endfor %}

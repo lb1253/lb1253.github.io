@@ -67,12 +67,12 @@ layout: compress
 </html>
 
 <hr>
-  <h1 class="gwp">Portfolio</h1>
+  <h1 class="gwp">Journalism</h1>
 
 <div class="grid__wrapper2">
 
-  {% assign post = site.portfolio | sort: 'date' %}
-  {% for post in site.portfolio reversed %}
+  {% assign post = site.journalism | sort: 'date' %}
+  {% for post in site.journalism reversed %}
     {% include archive-single.html type="grid" %}
 
   {% endfor %}
