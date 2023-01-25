@@ -1,7 +1,7 @@
 ---
-permalink: /portfolio/
-title: "Portfolio"
-excerpt: "portfolio"
+permalink: /journalism/
+title: "journalism"
+excerpt: "journalism"
 layout: portfolio-archive
 feature_row:
   - image_path:
