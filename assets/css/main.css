@@ -5543,6 +5543,18 @@
 }
 
 
-.homepage {
-  width: 70%;
+
+
+@media only screen 
+   and (min-width : 320px) {
+    .homepage {
+      width: 100%;
+    }
+  }
+
+  @media only screen 
+   and (min-width : 1025px) {
+    .homepage {
+      width: 70%;
+    }
 }
