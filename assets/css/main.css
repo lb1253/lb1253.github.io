@@ -2240,7 +2240,7 @@
   }
   .archive a {
     color: inherit;
-    text-decoration: none
+    text-decoration: underline #ffd800;
   }
   .archive__subtitle {
     margin: 1.414em 0 0;
